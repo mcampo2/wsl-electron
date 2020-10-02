@@ -4,7 +4,7 @@
   "description": "A minimal Electron application",
   "main": "main.js",
   "scripts": {
-    "start": "electron --no-sandbox ."
+    "start": "electron --disable-features=VizDisplayCompositor --no-sandbox ."
   },
   "author": "",
   "license": "CC0-1.0",
