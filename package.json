@@ -9,6 +9,6 @@
   "author": "",
   "license": "CC0-1.0",
   "dependencies": {
-    "electron": "^6.1.12"
+    "electron": "^10.1.3"
   }
 }
